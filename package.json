@@ -1,0 +1,9 @@
+{
+  "name": "sic",
+  "version": "0.1.0",
+  "description": "ScrIpt Concatinator",
+  "main": "index.js",
+  "repository": "https://github.com/maximsmol/sic.git",
+  "author": "Maksim Smolin",
+  "license": "MIT"
+}
