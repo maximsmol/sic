@@ -1,0 +1,8 @@
+{
+	"presets": [
+		["env",
+			{targets: {node: true}}
+		],
+		"flow"],
+	"plugins": ["transform-class-properties", "transform-function-bind"]
+}

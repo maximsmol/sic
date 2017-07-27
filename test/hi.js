@@ -1,0 +1,1 @@
+exports.abc = 10;

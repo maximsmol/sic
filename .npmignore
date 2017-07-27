@@ -1,0 +1,6 @@
+.npmignore
+.gitignore
+
+.babelrc
+src
+build.js
